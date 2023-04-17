@@ -8,6 +8,6 @@
     "give_role": true,
     "role_name": "Verified",
 
-    "mass_dm": 3,
+    "mass_dm": 0,
     "message": "https://discord.gg/dusky "
 }
